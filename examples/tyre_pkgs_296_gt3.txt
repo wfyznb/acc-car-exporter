@@ -1,0 +1,4 @@
+AC2/Content/cars/common/assets/tyres/tyre_dry_325_680_18_L.uasset
+AC2/Content/cars/common/assets/tyres/tyre_dry_325_680_18_R.uasset
+AC2/Content/cars/common/assets/tyres/tyre_dry_325_705_18_L.uasset
+AC2/Content/cars/common/assets/tyres/tyre_dry_325_705_18_R.uasset

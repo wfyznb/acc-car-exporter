@@ -1,0 +1,21 @@
+# .NET
+bin/
+obj/
+*.user
+
+# 导出产物（不含任何游戏资源）
+out*/
+export/
+*_export/
+*_export*/
+acc_paths.txt
+*.psk
+*.pskx
+*.png
+*.glb
+*.blend
+*.blend1
+
+# 系统文件
+Thumbs.db
+.DS_Store
